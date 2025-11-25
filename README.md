@@ -1,4 +1,4 @@
-## VAPT Assessment Report – demo.testfire.net##
+## VAPT Assessment Report – demo.testfire.net
 
 📌 Overview
 
@@ -6,6 +6,11 @@ This repository contains the Vulnerability Assessment and Penetration Testing (V
 .
 
 The assessment focused on identifying security weaknesses, evaluating real-world attack exposure, and providing remediation guidance to strengthen the application’s security posture.
+
+#### 📂 Demo for Each Vulnerability Is Provided in the PPT
+
+* All demonstration videos, screenshots, and attack steps are included in the uploaded presentation.
+* Perfect for submission, documentation, or team knowledge sharing.
 
 ### 1. Purpose of Assessment
 
